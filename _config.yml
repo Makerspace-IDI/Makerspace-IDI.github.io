@@ -5,7 +5,7 @@ title: Makerspace-IDI.
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://makerspace-idi.github.io"
+url: "http://makerspace-idi"
 
 # Build settings
 markdown: kramdown
@@ -26,16 +26,16 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  # - title: dribbble
-  #   url:
+  - title: dribbble
+    url:
   - title: facebook
     url:
   - title: twitter
     url:
   - title: instagram
     url:
-  # - title: tumblr
-  #   url:
+  - title: tumblr
+    url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -51,18 +51,13 @@ tel: +34 8493-4893
 
 # Members information. Shown on About page.
 members:
- - name: Henry S. Sjøen
+  - name: Henry S. Sjøen
     position: Coffee Enthusiast
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: henry.jpg
     social:
-      - title: envelope #use for email address
-        url: mailto:henryskorpe+makerspace@gmail.com
-  #
-  # - name: Kristoffer Hagen
-  #   position: position
-  #   text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  #   img: anonym.jpg
+    - title: envelope
+      url: mailto:henryskorpe+makerspace@gmail.com  
 
   - name: Philipp Zirpins
     position: position
@@ -121,8 +116,8 @@ members:
 
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: NTNU
-    img: logo_ntnu_u-slagord.png
+  - name: dribbble
+    img: client01.png
   - name: Code is Poetry
     img: client02.png
   - name: Vimeo
