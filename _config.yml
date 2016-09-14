@@ -51,6 +51,11 @@ tel: +34 8493-4893
 
 # Members information. Shown on About page.
 members:
+  - name: Emil Ovik Kollstrøm
+    position: position
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: Emil.jpg
+
   - name: Henry S. Sjøen
     position: Coffee Enthusiast
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -59,22 +64,7 @@ members:
     - title: envelope
       url: mailto:henryskorpe+makerspace@gmail.com
 
-  - name: Philipp Zirpins
-    position: position
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anonym.jpg
-
-  - name: Martin Bjerke
-    position: position
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anonym.jpg
-
-  - name: Emil Ovik Kollstrøm
-    position: position
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anonym.jpg
-
-  - name: Kia Brekke
+  - name: Hung Quang Thieu
     position: position
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: anonym.jpg
@@ -82,34 +72,44 @@ members:
   - name: Håvard Anda Estensen
     position: position
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anonym.jpg
-
-  - name: Sigve Skaugvoll
-    position: position
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anonym.jpg
-
-  - name: Jonas Hermansen Muribø
-    position: position
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anonym.jpg
+    img: Haavard.jpg
 
   - name: Jie Li
     position: position
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anonym.jpg
+    img: Jie.jpg
+
+  - name: Jonas Hermansen Muribø
+    position: position
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: Jonas.jpg
+
+  - name: Kia Brekke
+    position: position
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: Kia.jpg
+
+  - name: Martin Bjerke
+    position: position
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: Martin.jpg
+
+  - name: Philipp Zirpins
+    position: position
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: anonym_m.jpg
 
   - name: Renate Bech-Sørensen
     position: position
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anonym.jpg
+    img: Renate.jpg
 
-  - name: Uyen Dan Nguyen (Mimi)
+  - name: Sigve Skaugvoll
     position: position
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anonym.jpg
+    img: Sigve.jpg
 
-  - name: Hung Quang Thieu
+  - name: Uyen Dan Nguyen (Mimi)
     position: position
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: anonym.jpg
