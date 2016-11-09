@@ -26,25 +26,23 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
+  # - title: dribbble
+  #   url:
   - title: facebook
     url:
   - title: twitter
     url:
   - title: instagram
     url:
-  - title: tumblr
-    url:
+  # - title: tumblr
+  #   url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - NTNU, Gløshaugen
+email: henryskorpe+makerspace-idi@gmail.com
+tel: +47 984 36 185
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -112,7 +110,7 @@ members:
   - name: Uyen Dan Nguyen (Mimi)
     position: position
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anonym_f.jpg
+    img: mimi.jpg
 
 # Clients information. Shown on Home and About pages.
 clients:
